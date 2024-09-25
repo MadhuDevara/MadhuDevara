@@ -8,7 +8,7 @@
 
 
 ### 🛠️ Skills
-- **Languages**: Java, Python
+- **Languages**: Java
 - **Automation Tools**: Selenium, TestNG, JUnit
 - **Frameworks**: Page Object Model, TestNG Framework
 - **CI/CD**: Jenkins, GitHub Actions
