@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadhuDevara
+- 👋 Hi, I’m @Madhu Devarakonda
 - 👀 I’m interested in software testing, automation frameworks, API testing, and exploring new tools and methodologies.
 - 🌱 I’m currently learning advanced DevOps practices, Kubernetes, and cloud-based testing solutions.
 - 💞️ I’m looking to collaborate on open-source projects related to automation testing, API testing, and CI/CD pipeline integration.
