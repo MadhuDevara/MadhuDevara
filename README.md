@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Madhu Devarakonda
-- 👀 I’m interested in software testing, automation frameworks, API testing, and exploring new tools and methodologies.
+- 👀 I’m interested in Manual Testing, Automation Testing, Mobile testing, and exploring new tools and methodologies.
 - 🌱 I’m currently learning advanced DevOps practices, Kubernetes, and cloud-based testing solutions.
 - 💞️ I’m looking to collaborate on open-source projects related to automation testing, API testing, and CI/CD pipeline integration.
 - 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/madhu-devarakonda/) or email me at madhudevara.to@gmail.com.
@@ -16,7 +16,7 @@
 
 ### 💼 Experience
 - 4.7 years of experience in Software Quality Assurance.
-- Expertise in manual testing, automation frameworks, and CI/CD pipeline integration.
+- Expertise in manual testing, automation testing, and mobile testing.
 - Worked with Agile teams and contributed to building robust test automation solutions.
 
 
